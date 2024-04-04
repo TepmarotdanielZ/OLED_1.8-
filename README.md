@@ -3,14 +3,14 @@
 n this tutorial, I will cover how to interface ST7735 1.8″ TFT Display with STM32, and to do so, I will use the SPI peripheral of STM32.
 This particular display uses 8 pins for controlling the display, and the pins are shown below
 
-  1. LED :: Backlight -> Connect to 3.3V
-  2. SCK :: Serial clock input -> connect to SPI SCK pin
-  3. SDA :: Serial data input -> Connect to SPI MOSI pin
-  4. DC :: Data/Command selection -> Connect to PA9
-  5. RESET :: Reset -> Connect to PC14
-  6. CS :: Chip Select -> Connect to PB6
-  7. GND :: Ground -> GND
-  8. VCC :: Power Supply -> 3.3V
+  1. LED   : Backlight -> Connect to 3.3V
+  2. SCK   : Serial clock input -> connect to SPI SCK pin
+  3. SDA   : Serial data input -> Connect to SPI MOSI pin
+  4. DC    : Data/Command selection -> Connect to PA9
+  5. RESET : Reset -> Connect to PC14
+  6. CS    : Chip Select -> Connect to PB6
+  7. GND   : Ground -> GND
+  8. VCC   : Power Supply -> 3.3V
 
 
 ![image](https://github.com/TepmarotdanielZ/OLED_1.8-/assets/139426571/eda4e2f3-d7af-4cbb-adf3-eb1c3c7997ab)
