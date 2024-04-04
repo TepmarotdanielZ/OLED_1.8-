@@ -12,7 +12,9 @@ This particular display uses 8 pins for controlling the display, and the pins ar
   7. GND :: Ground -> GND
   8. VCC :: Power Supply -> 3.3V
 
+
 ![image](https://github.com/TepmarotdanielZ/OLED_1.8-/assets/139426571/eda4e2f3-d7af-4cbb-adf3-eb1c3c7997ab)
+
 
 # 2. Configuration CubeMX STM32
 
@@ -46,11 +48,15 @@ That’s all the setup needed here. Let’s take a look at some part of the code
 
 # 3. CODE :
 
-![Uploading image_2024-04-04_07-32-46.png…]()
 
-![Uploading image_2024-04-04_07-33-03.png…]()
+![image_2024-04-04_07-32-46](https://github.com/TepmarotdanielZ/OLED_1.8-/assets/139426571/4f6067f2-d7d9-4111-bc26-0931f1c90e02)
+
+
+![image_2024-04-04_07-33-03](https://github.com/TepmarotdanielZ/OLED_1.8-/assets/139426571/2871da30-4fce-46c5-a907-8ed5ca5c7b8c)
+
 
 ![image_2024-04-04_07-33-17](https://github.com/TepmarotdanielZ/OLED_1.8-/assets/139426571/64277a49-9bd4-46b8-8a47-74b18593a6a6)
+
 
 ![image_2024-04-04_07-33-35](https://github.com/TepmarotdanielZ/OLED_1.8-/assets/139426571/43159fea-ede4-4862-9fab-d6ce710c9608)
 
@@ -59,6 +65,7 @@ That’s all the setup needed here. Let’s take a look at some part of the code
 # 5. Result Testing :
 
 ![image](https://github.com/TepmarotdanielZ/OLED_1.8-/assets/139426571/8c6cc3a0-22fe-4af4-a5ff-890bd620a721)
+
 
 ![image](https://github.com/TepmarotdanielZ/OLED_1.8-/assets/139426571/61997777-b3ba-48c4-ad98-bb2853d34f8a)
 
